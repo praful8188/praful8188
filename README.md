@@ -1,4 +1,4 @@
-# praful_8188
+
 <h1 align="center">Hi 👋, I'm Praful Jadhav</h1>
 <h3 align="center">A passionate frontend developer from Maharashtra.</h3>
 <img align="right" alt="coding" width= "400" src="https://camo.githubusercontent.com/53b3b2c0ec1e1a50819166f48f115494a2fcd5a4438f2d14edf17d98a045fb6b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f76696d3454574b7759354d41414141642f646973636f72642d6861636b696e672e676966">
