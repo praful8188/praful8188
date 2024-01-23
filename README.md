@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend**
 
-- 📫 How to reach me **prafulpp8188@gmail.com**
+- 📫 How to reach me **prafulpatil8188@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
