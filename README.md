@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Praful Jadhav</h1>
-<h3 align="center">Web Development</h3>
+<h3 align="center">Web Developer</h3>
 <img align="right" alt="coding" width= "400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m a Full Stack Developer
 
 - 📫 How to reach me **prafulpatil8188@gmail.com**
 
